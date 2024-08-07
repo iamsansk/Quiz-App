@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "question": "What is React.js?",
+        "options": ["A back-end framework for building server-side applications", "A front-end library for building user interfaces", "A database management system", "A programming language"],
+        "correctOption": "A front-end library for building user interfaces"
+    },
+    {
+        "id": 2,
+        "question": "What is a component in React?",
+        "options": ["A function or class that returns a piece of UI", "A type of database schema", "A backend server configuration", "A CSS preprocessor"],
+        "correctOption": "A function or class that returns a piece of UI"
+    },
+    {
+        "id": 3,
+        "question": "What is JSX?",
+        "options": ["A type of JavaScript", "A templating engine used in PHP", "A syntax extension for JavaScript that looks similar to XML or HTML", "A SQL query language variant"],
+        "correctOption": "A syntax extension for JavaScript that looks similar to XML or HTML"
+    },
+    {
+        "id": 4,
+        "question": "How do you create a state in a functional component in React?",
+        "options": ["Using the createState function", "By defining a state variable in the constructor", "Using the useState hook", "By creating a class that extends React.Component"],
+        "correctOption": "Using the useState hook"
+    },
+    {
+        "id": 5,
+        "question": "What is the purpose of the useEffect hook in React?",
+        "options": ["To handle user inputs in forms", "To perform side effects in function components", "To create a new state variable", "To manage CSS animations"],
+        "correctOption": "To perform side effects in function components"
+    }
+]
+
