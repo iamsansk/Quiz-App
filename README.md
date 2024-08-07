@@ -1,11 +1,8 @@
-# Create a README.md file with the following content
-
-cat <<EOF > README.md
 # Quiz App
 
 ## Overview
 
-This is a simple Quiz App built with React. The app presents the user with 5 multiple-choice questions. For each correct answer, the user earns a point. If the user selects the wrong answer, the correct answer will be shown. 
+This is a simple Quiz App built with React and Vite. The app presents the user with 5 multiple-choice questions. For each correct answer, the user earns a point. If the user selects the wrong answer, the correct answer will be shown. 
 
 ## Features
 
@@ -18,40 +15,23 @@ This is a simple Quiz App built with React. The app presents the user with 5 mul
 To get started with the Quiz App, follow these steps:
 
 1. **Clone the Repository**
-
-   \`\`\`sh
    git clone https://github.com/iamsansk/your-repository-name.git
-   \`\`\`
 
 2. **Navigate to the Project Directory**
-
-   \`\`\`sh
    cd your-repository-name
-   \`\`\`
 
 3. **Install Dependencies**
-
-   \`\`\`sh
    npm install
-   \`\`\`
 
 ## Usage
 
 1. **Run the Development Server**
-
-   \`\`\`sh
-   npm start
-   \`\`\`
-
-   The app will be available at http://localhost:3000.
+   npm run dev
 
 2. **Build for Production**
-
-   \`\`\`sh
    npm run build
-   \`\`\`
 
-   The production-ready files will be located in the build directory.
+   The production-ready files will be located in the `dist` directory.
 
 ## How It Works
 
@@ -59,7 +39,5 @@ To get started with the Quiz App, follow these steps:
 - **Answer Selection**: The user selects an answer for each question.
 - **Scoring**: The app tracks the user's score based on correct answers.
 - **Feedback**: For incorrect answers, the app shows the correct answer.
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Make sure to follow the coding standards and include tests for any new features.
+## Preview
+   https://iamsansk.github.io/Quiz-App/
