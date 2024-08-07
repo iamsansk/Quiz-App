@@ -6,7 +6,7 @@ This is a simple Quiz App built with React and Vite. The app presents the user w
 
 ## Features
 
-- **Five Questions**: The quiz contains 5 questions on various topics.
+- **Five Questions**: The quiz contains 5 questions on React.
 - **Scoring**: Points are awarded for each correct answer.
 - **Feedback**: The correct answer is displayed if the user selects an incorrect option.
 
@@ -14,21 +14,21 @@ This is a simple Quiz App built with React and Vite. The app presents the user w
 
 To get started with the Quiz App, follow these steps:
 
-1. **Clone the Repository**
+1. **Clone the Repository** - 
    git clone https://github.com/iamsansk/your-repository-name.git
 
-2. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory** - 
    cd your-repository-name
 
-3. **Install Dependencies**
+3. **Install Dependencies** - 
    npm install
 
 ## Usage
 
-1. **Run the Development Server**
+1. **Run the Development Server** - 
    npm run dev
 
-2. **Build for Production**
+2. **Build for Production** - 
    npm run build
 
    The production-ready files will be located in the `dist` directory.
