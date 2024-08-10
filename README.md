@@ -14,24 +14,24 @@ This is a simple Quiz App built with React and Vite. The app presents the user w
 
 To get started with the Quiz App, follow these steps:
 
-1. **Clone the Repository** - 
-   git clone https://github.com/iamsansk/your-repository-name.git
+### 1. Clone the Repository
 
-2. **Navigate to the Project Directory** - 
-   cd your-repository-name
+```bash
+git clone https://github.com/your-username/Quiz-App.git
+cd Quiz-App
+```
 
-3. **Install Dependencies** - 
-   npm install
+### 2. Install Dependencies
 
-## Usage
+```bash
+npm install
+```
 
-1. **Run the Development Server** - 
-   npm run dev
+### 3. Run the Application
 
-2. **Build for Production** - 
-   npm run build
-
-   The production-ready files will be located in the `dist` directory.
+```bash
+npm run dev
+```
 
 ## How It Works
 
