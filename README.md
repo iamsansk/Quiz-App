@@ -17,7 +17,7 @@ To get started with the Quiz App, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Quiz-App.git
+git clone https://github.com/iamsansk/Quiz-App.git
 cd Quiz-App
 ```
 
